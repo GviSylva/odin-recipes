@@ -3,6 +3,19 @@ body {
   color: #f4f807;
 }
 
+.menu {
+  width: 700px;
+  margin: 0px auto;
+  border-radius: 25px;
+  background-color: yellow;
+  color: #0e2642;
+  margin-top: 25px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
 .list-style {
   background-color: green;
   color: yellowgreen;
